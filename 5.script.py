@@ -90,9 +90,16 @@ for index, entry in enumerate(test_data):
     json_filename = f"C:\\Users\\teleki\\Desktop\\Hackathon2025\\json\\form_data_{index + 1}.json"
     with open(json_filename, "w", encoding="utf-8") as file:
         json.dump(result, file, ensure_ascii=False, indent=4)
+        
+    # Ulož JSON pouze pokud je chyba
+    if result["error"]:
+        json_filename = f"C:\\Users\\teleki\\Desktop\\Hackathon2025\\json\\form_data_{index + 1}_ERROR.json"
+        with open(json_filename, "w", encoding="utf-8") as file:
+            json.dump(result, file, ensure_ascii=False, indent=4)
 
-  print(f"✅ Záznam {index + 1} zpracován.")
-    print(json.dumps(result, ensure_ascii=False, indent=4))  
+    print(f"✅ Záznam {index + 1} zpracován.")
+    print(json.dumps(result, ensure_ascii=False, indent=4))
+ 
 
 # Zavření prohlížeče
 driver.quit()
