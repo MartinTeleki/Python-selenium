@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-02 15:18:28",
+    "url": "https://cloudalm.cz/formular/",
+    "data": {
+        "rok_registrace": "2020",
+        "znacka": "Škoda",
+        "model": "Kodiaq",
+        "vin": "1HGBH41JXMN109123",
+        "jmeno": "Martin",
+        "prijmeni": "Teleki",
+        "email": "martinteleki@seznam.cz",
+        "najeto_km": "10 000"
+    },
+    "error": null,
+    "message": "Formulář odeslán úspěšně."
+}

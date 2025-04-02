@@ -55,7 +55,8 @@ time.sleep(5)
 
 
 # Uložení do JSON souboru
-json_filename = "form_result.json"
+json_filename = "C:\\Users\\teleki\\Desktop\\Hackathon2025\\json\\form_data.json"
+
 with open(json_filename, "w", encoding="utf-8") as file:
     json.dump(result, file, ensure_ascii=False, indent=4)
 

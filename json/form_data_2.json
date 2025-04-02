@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-02 15:18:36",
+    "url": "https://cloudalm.cz/formular/",
+    "data": {
+        "rok_registrace": "2019",
+        "znacka": "Volkswagen",
+        "model": "Golf",
+        "vin": "1VWBT7A3XEC089123",
+        "jmeno": "Jan",
+        "prijmeni": "Novák",
+        "email": "jan.novakexample.com",
+        "najeto_km": "15 000"
+    },
+    "error": null,
+    "message": "Formulář odeslán úspěšně."
+}

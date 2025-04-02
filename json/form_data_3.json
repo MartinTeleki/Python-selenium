@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-02 15:18:43",
+    "url": "https://cloudalm.cz/formular/",
+    "data": {
+        "rok_registrace": "2018",
+        "znacka": "Ford",
+        "model": "Focus",
+        "vin": "1FADP3F23EL206789",
+        "jmeno": "Petr",
+        "prijmeni": "Svoboda",
+        "email": "petr.svoboda@seznam.cz",
+        "najeto_km": "25 000"
+    },
+    "error": null,
+    "message": "Formulář odeslán úspěšně."
+}
