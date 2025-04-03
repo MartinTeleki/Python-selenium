@@ -91,8 +91,8 @@ for index, entry in enumerate(test_data):
     with open(json_filename, "w", encoding="utf-8") as file:
         json.dump(result, file, ensure_ascii=False, indent=4)
 
-  print(f"✅ Záznam {index + 1} zpracován.")
-    print(json.dumps(result, ensure_ascii=False, indent=4))  
+print(f"✅ Záznam {index + 1} zpracován.")
+print(json.dumps(result, ensure_ascii=False, indent=4))  
 
 # Zavření prohlížeče
 driver.quit()

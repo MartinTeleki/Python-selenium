@@ -1,0 +1,89 @@
+Rok registrace: 2021
+Značka: Škoda
+Model: Superb
+VIN: TMBJK7NP9M7023456
+Jméno: Jan
+Příjmení: Novák
+Email: jan.novak@email.cz
+Najeto km: 45 000
+
+Rok registrace: 2020
+Značka: Volkswagen
+Model: Golf
+VIN: WVWZZZ1KZLW000001
+Jméno: Petra
+Příjmení: Svobodová
+Email: petra.svobodova@email.cz
+Najeto km: 58 700
+
+Rok registrace: 2018
+Značka: Ford
+Model: Focus
+VIN: WF0DP3TH8JYR12345
+Jméno: Karel
+Příjmení: Dvořák
+Email: karel.dvorak@centrum.cz
+Najeto km: 98 000
+
+Rok registrace: 2022
+Značka: Toyota
+Model: Yaris
+VIN: JTDBVRBD6KJ876543
+Jméno: Tereza
+Příjmení: Malá
+Email: tereza.mala@seznam.cz
+Najeto km: 12 300
+
+Rok registrace: 2019
+Značka: BMW
+Model: X3
+VIN: WBAVC91020KT98765
+Jméno: David
+Příjmení: Horák
+Email: david.horak@email.cz
+Najeto km: 64 200
+
+Rok registrace: 2023
+Značka: Hyundai
+Model: Tucson
+VIN: KM8J33A42HU765432
+Jméno: Lucie
+Příjmení: Králová
+Email: lucie.kralova@gmail.com
+Najeto km: 9 800
+
+Rok registrace: 2017
+Značka: Opel
+Model: Astra
+VIN: W0L0AHM75G8012345
+Jméno: Marek
+Příjmení: Bláha
+Email: marek.blaha@volny.cz
+Najeto km: 115 000
+
+Rok registrace: 2021
+Značka: Kia
+Model: Ceed
+VIN: U5YFF52429L765432
+Jméno: Anna
+Příjmení: Fialová
+Email: anna.fialova@email.cz
+Najeto km: 33 300
+
+Rok registrace: 2016
+Značka: Renault
+Model: Clio
+VIN: VF15RKL0H50876543
+Jméno: Michal
+Příjmení: Kučera
+Email: michal.kucera@email.cz
+Najeto km: 123 000
+
+Rok registrace: 2022
+Značka: Peugeot
+Model: 3008
+VIN: VF3M45GYNSL987654
+Jméno: Eva
+Příjmení: Pokorná
+Email: eva.pokorna@email.cz
+Najeto km: 27 500

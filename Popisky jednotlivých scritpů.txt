@@ -1,4 +1,6 @@
 Python 5 -> Bere form_data_result.json a projede tím web a pokud najde chybu, tak ji uloží do formátu ERROR.json a zároveň udělá json i tam, kde chyba není a pojmenuje to jen form_Data_n 
 
+python 2 -> ukládá data do json_data_result.json
+python 5-> ukládá data špatná i s errorem
 python 6 -> nedělá zbytečné json formy, uloží jen ty s errorem
 python 7 ->
